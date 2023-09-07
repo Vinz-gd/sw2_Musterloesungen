@@ -1,5 +1,6 @@
 {
     "name": "SW2_Musterlösung_FdhdGg-ohne-Schleifen",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
